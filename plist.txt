@@ -1,4 +1,10 @@
-[
-  "https://9ubet.net",
-  "https://9ubet.co.ke"
-]
+{
+   "web": [
+     "https://9ubet.net",
+     "https://9ubet.co.ke"
+   ],
+   "fetch": [
+     "https://raw.githubusercontent.com/leo202465/kenya/refs/heads/develop/plist.txt",
+     "https://kenya-sport.s3.af-south-1.amazonaws.com/plist/plist.txt"
+   ]
+}
