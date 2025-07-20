@@ -1,6 +1,6 @@
 {
    "web": [
-     "https://9ubet.net",
+     "https://www.9ubet.club",
      "https://9ubet.co.ke"
    ],
    "fetch": [
