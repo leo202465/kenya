@@ -1,0 +1,9 @@
+{
+   "web": [
+     "https://kenya.funnygame88.com",
+   ],
+   "fetch": [
+     "https://raw.githubusercontent.com/leo202465/kenya/refs/heads/develop/plist-staging.txt",
+     "https://kenya-sport.s3.af-south-1.amazonaws.com/plist/plist-staging.txt"
+   ]
+}
