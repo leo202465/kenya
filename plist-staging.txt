@@ -1,6 +1,6 @@
 {
    "web": [
-     "https://kenya.funnygame88.com"
+     "https://kenya.fg66.club"
    ],
    "fetch": [
      "https://raw.githubusercontent.com/leo202465/kenya/refs/heads/develop/plist-staging.txt",

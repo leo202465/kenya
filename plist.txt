@@ -1,7 +1,9 @@
 {
    "web": [
-     "https://www.9ubet.club",
-     "https://9ubet.co.ke"
+     "https://9ubet.co.ke",
+     "https://9ubet.ke",
+     "https://9ubet.bet",
+     "https://9ubet.com"
    ],
    "fetch": [
      "https://raw.githubusercontent.com/leo202465/kenya/refs/heads/develop/plist.txt",
