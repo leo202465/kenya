@@ -1,6 +1,6 @@
 {
    "web": [
-     "https://app.9ubet.co.ke",
+     "https://app.9ubet.co.ke"
    ],
    "fetch": [
      "https://raw.githubusercontent.com/leo202465/kenya/refs/heads/develop/plist-test.txt",
